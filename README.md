@@ -1,1 +1,1 @@
-# Mine-The-Model_Stock-Prediction
+Mine the Model is a ML contest hosted by Cynaptics Club IIT Indore in collaboration with NJack IIT Patna . The objective of the contest was to build a stock prediction model. For the challenge , we used various deep learning models like FB Prophet, Recurrent Neural Networks(RNNs), Convolutional Neural Networks(CNNs) and Long Short Term Memory[LSTM]. LSTM managed to give the best results wwith an accuracy of 0.12%.
